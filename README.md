@@ -1,0 +1,1 @@
+# find_count_image
